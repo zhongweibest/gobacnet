@@ -37,10 +37,10 @@ import (
 	"os"
 	"time"
 
-	"github.com/alexbeltran/gobacnet/tsm"
-	bactype "github.com/alexbeltran/gobacnet/types"
-	"github.com/alexbeltran/gobacnet/utsm"
 	"github.com/sirupsen/logrus"
+	"github.com/zhongweibest/gobacnet/tsm"
+	bactype "github.com/zhongweibest/gobacnet/types"
+	"github.com/zhongweibest/gobacnet/utsm"
 )
 
 const defaultStateSize = 20

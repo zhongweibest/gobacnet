@@ -36,9 +36,9 @@ import (
 	"log"
 	"testing"
 
-	"github.com/alexbeltran/gobacnet/property"
+	"github.com/zhongweibest/gobacnet/property"
 
-	"github.com/alexbeltran/gobacnet/types"
+	"github.com/zhongweibest/gobacnet/types"
 )
 
 const interfaceName = "eth0"

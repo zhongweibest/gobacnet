@@ -35,8 +35,8 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/alexbeltran/gobacnet/encoding"
-	bactype "github.com/alexbeltran/gobacnet/types"
+	"github.com/zhongweibest/gobacnet/encoding"
+	bactype "github.com/zhongweibest/gobacnet/types"
 )
 
 // address returns the address given

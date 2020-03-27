@@ -20,10 +20,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/alexbeltran/gobacnet"
-	"github.com/alexbeltran/gobacnet/types"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
+	"github.com/zhongweibest/gobacnet"
+	"github.com/zhongweibest/gobacnet/types"
 )
 
 var scanSize uint32

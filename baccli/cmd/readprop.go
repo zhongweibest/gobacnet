@@ -20,10 +20,10 @@ import (
 
 	"github.com/spf13/viper"
 
-	"github.com/alexbeltran/gobacnet"
-	"github.com/alexbeltran/gobacnet/property"
-	"github.com/alexbeltran/gobacnet/types"
 	"github.com/spf13/cobra"
+	"github.com/zhongweibest/gobacnet"
+	"github.com/zhongweibest/gobacnet/property"
+	"github.com/zhongweibest/gobacnet/types"
 
 	log "github.com/sirupsen/logrus"
 )
